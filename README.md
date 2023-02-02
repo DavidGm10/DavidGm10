@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, me llamo Wilson David Gomez</h1>
+<h1 align="center">Hola👋, Me llamo Wilson David Gomez</h1>
 <h3 align="center">Soy un apasionado por la tecnología y el desarrollo de software. También me encuentro en constante búsqueda de nuevos desafíos para desarrollar mis habilidades.</h3>
 
 
