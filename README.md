@@ -1,11 +1,14 @@
 <h1 align="center">Hola👋, me llamo Wilson David Gomez</h1>
-<h3 align="center">Me gusta mucho el desarrollo frontend, aunque tambien trabajo el Backend.</h3>
+<h3 align="center">Soy un apasionado por la tecnología y el desarrollo de software. También me encuentro en constante búsqueda de nuevos desafíos para desarrollar mis habilidades.</h3>
 
-- 🌱 I’m currently learning **Angular, React, Vue.js, Node.js**
 
-- 💬 Ask me about **Html, Css, Javascript, C++, Python, Angular.**
 
-- 📫 How to reach me **wdg6752@gmail.com**
+- 📫 Mi correo de contacto es: wdg6752@gmail.com
+- ⚡ Estoy Buscando una oportunidad para utilizar mis habilidades y conocimientos.
+- 👯 Me destaco por mi capacidad de trabajar en equipo y mi habilidad para comunicar de manera efectiva con colegas.
+- 📄 Soy un escucha activo y estoy dispuesto a trabajar con otros para alcanzar un objetivo común.
+- 🌱 Actualmente estoy aprendiendo desarrollo web del lado del Front-End
+- 🤝 Considero el trabajo en equipo una herramienta poderosa para aprender y conseguir objetivos en común
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
