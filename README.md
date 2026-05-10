@@ -1,5 +1,6 @@
 <h1 align="center">Hola👋, Me llamo Wilson David Gomez</h1>
-<h3 align="center">Soy un apasionado por la tecnología y el desarrollo de software. También me encuentro en constante búsqueda de nuevos desafíos para desarrollar mis habilidades.</h3>
+<h3 align="center">💻 Junior Full Stack Developer
+🌱 25 años | 🚀 2 años de experiencia</h3>
 
 
 
